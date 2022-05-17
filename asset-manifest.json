@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gestor-de-tareas/static/css/main.8cdd1fa3.css",
+    "main.js": "/gestor-de-tareas/static/js/main.558e494b.js",
+    "static/media/main.png": "/gestor-de-tareas/static/media/main.05aed2c05dd85dae6ae7.png",
+    "index.html": "/gestor-de-tareas/index.html",
+    "main.8cdd1fa3.css.map": "/gestor-de-tareas/static/css/main.8cdd1fa3.css.map",
+    "main.558e494b.js.map": "/gestor-de-tareas/static/js/main.558e494b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cdd1fa3.css",
+    "static/js/main.558e494b.js"
+  ]
+}
