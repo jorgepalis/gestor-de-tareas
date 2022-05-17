@@ -1,0 +1,31 @@
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #1b1b32 #e19a4d;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 12px;
+  margin: 0;
+}
+
+*::-webkit-scrollbar-track {
+  background: #e19a4d;;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #1b1b32;
+  border-radius: 20px;
+  border: 3px solid #e19a4d;
+}
+
+.tareas-lista-contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  width: 99%;
+  justify-content: center;
+  margin-top: 15px;
+  max-height: 600px;
+  overflow-y: scroll;
+}

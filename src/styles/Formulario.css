@@ -1,0 +1,28 @@
+.tarea-formulario{
+    display: flex;
+    flex-direction: column;
+}
+
+.tarea-input{
+    min-height: 40px;
+    border:  2px solid #5296a1;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.tarea-boton{
+    width: 100px;
+    height: 30px;
+    background-color: #e19a4d;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+.tarea-boton:hover{
+    background-color: #a56d32;
+    transition: 0.3s;
+}
+
