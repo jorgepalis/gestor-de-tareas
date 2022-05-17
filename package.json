@@ -2,7 +2,7 @@
   "name": "gestor-de-tareas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jorgepalis.github.io/Gestor-de-tareas/",
+  "homepage": "https://jorgepalis.github.io/gestor-de-tareas/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
